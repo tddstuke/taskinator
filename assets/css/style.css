@@ -1,4 +1,4 @@
-* {
+d* {
   box-sizing: border-box;
 }
 
@@ -228,5 +228,4 @@ footer {
   .task-list-wrapper {
     flex-basis: 100%;
   }
-
 }
